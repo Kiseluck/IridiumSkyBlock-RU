@@ -1,1 +1,2 @@
-# IridiumSkyBlock-RU
+# Перевод плагина IridiumSkyBlock
+# Прогресс 20%
