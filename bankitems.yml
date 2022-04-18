@@ -1,0 +1,52 @@
+---
+crystalsBankItem:
+  name: "кристалы"
+  displayName: "Кристалы"
+  defaultAmount: 10.0
+  enabled: true
+  item:
+    material: "NETHER_STAR"
+    amount: 1
+    displayName: "<GRADIENT:3effbf>Кристалы острова</GRADIENT:3effbf>"
+    headData: null
+    headOwner: null
+    headOwnerUUID: null
+    lore:
+    - "&f%amount% <GRADIENT:3effbf>Кристалов</GRADIENT:3effbf>"
+    - "<GRADIENT:3effbf>[!]</GRADIENT:3effbf> &fЛКМ, чтобы снять кристалы"
+    - "<GRADIENT:3effbf>[!]</GRADIENT:3effbf> &fПКМ, чтобы положить кристалы"
+    slot: 13
+experienceBankItem:
+  name: "опыт"
+  displayName: "Опыт"
+  defaultAmount: 10.0
+  enabled: true
+  item:
+    material: "EXPERIENCE_BOTTLE"
+    amount: 1
+    displayName: "<GRADIENT:3effbf>Опыт</GRADIENT:3effbf>"
+    headData: null
+    headOwner: null
+    headOwnerUUID: null
+    lore:
+    - "&f%amount% <GRADIENT:3effbf>Опыта</GRADIENT:3effbf>"
+    - "<GRADIENT:3effbf>[!]</GRADIENT:3effbf> &fЛКМ, чтобы снять опыт"
+    - "<GRADIENT:3effbf>[!]</GRADIENT:3effbf> &fПКМ, чтобы положить опыт"
+    slot: 15
+moneyBankItem:
+  name: "монеты"
+  displayName: "Монеты"
+  defaultAmount: 1000.0
+  enabled: true
+  item:
+    material: "PAPER"
+    amount: 1
+    displayName: "<GRADIENT:3effbf>Монеты острова</GRADIENT:3effbf>"
+    headData: null
+    headOwner: null
+    headOwnerUUID: null
+    lore:
+    - "&f%amount% <GRADIENT:3effbf>Монет</GRADIENT:3effbf>"
+    - "<GRADIENT:3effbf>[!]</GRADIENT:3effbf> &fЛКМ, чтобы снять монеты"
+    - "<GRADIENT:3effbf>[!]</GRADIENT:3effbf> &fПКМ, чтобы положить монеты"
+    slot: 11
